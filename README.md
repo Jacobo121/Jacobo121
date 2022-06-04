@@ -2,6 +2,9 @@
 
 My name is Jacobo, i'm frontend developer
 
+---
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JacoboArcila&layout=compact&theme=dark&hide=html,SCSS,CSS">
+
 # Languages and Tools
 <div styles="display:flex;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="70" title="CSS"/>
